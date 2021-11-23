@@ -11,3 +11,7 @@ for (const value of numbers) {
   }
   console.log(value);
 }
+//for loop good for creation of data but iterating through arrays no
+//for in: use for index
+//for of: use for the value
+//forEach: use but has problems with async and cant break out of
